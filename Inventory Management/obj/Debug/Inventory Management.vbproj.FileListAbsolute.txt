@@ -1,0 +1,19 @@
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\bin\Debug\InventoryManagement.accdb
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.xml
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.vbprojAssemblyReference.cache
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Form1.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.home.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Resources.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.order.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.ProductMaster.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Purchase.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.sale.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.suplier.resources
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.vbproj.GenerateResource.cache
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.vbproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.xml
+C:\Users\akash\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
